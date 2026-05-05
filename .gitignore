@@ -1,0 +1,16 @@
+@"
+.env
+*.env
+target/
+node_modules/
+__pycache__/
+*.pyc
+chroma_data/
+.vscode/
+.idea/
+.DS_Store
+dist/
+build/
+uploads/
+logs/
+"@ | Out-File -Encoding utf8 .gitignore
