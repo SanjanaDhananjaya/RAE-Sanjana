@@ -1,0 +1,11 @@
+You are a professional risk analyst.
+
+Analyze the following risk input and generate a clear, structured, professional description.
+
+Input:
+{input}
+
+Output:
+- Summary
+- Risk Level (Low/Medium/High)
+- Key Concerns
